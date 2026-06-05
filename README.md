@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✦ SignFlow Enterprise
 
 > A production-ready, enterprise-grade eSignature platform — open-source alternative to DocuSign.
@@ -395,3 +396,6 @@ MIT — free to use, modify, and deploy commercially.
 ---
 
 **Built with ❤️ for the enterprise developer community.**
+=======
+# signflow-enterprise
+>>>>>>> 03170fae53771c79ac125cb2d90e8f77bb8baa3f
